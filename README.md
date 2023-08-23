@@ -1,8 +1,7 @@
 # Hola 👋, soy Cesar Gonzalez
 ### Desarrollador Web Backend
 
-- 💻Trabajo en [Corporacion Luana](https://corporacionluana.pe/ "Corporacion Luana")
-- 📄Mi CV [Cesar Gonzalez](https://www.linkedin.com/in/cesar-enrique-gonzalez-carvajal-ab0a8112a/ "Cesar Gonzalez")
+- 💻Trabajo en [Corporacion Luana](https://corporacionluana.pe/ "Corporacion Luana") ; [Django Software Foundation](https://www.djangoproject.com/ "Django Software Foundation") 
 - 📧 Contactame [cesargonzalez390@gmail.com](mailto:cesargonzalez390@gmail.com "cesargonzalez390@gmail.com")
 - Preguntame sobre **Python, Django, Django Rest Framework**
 
