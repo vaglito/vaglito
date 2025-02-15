@@ -1,10 +1,14 @@
-# Hola 👋, soy Cesar Gonzalez
-### Desarrollador Web Backend
+# Hi 👋, I'm Cesar
+### Web Developer
 
-- 💻Trabajo en [Corporacion Luana](https://corporacionluana.pe/ "Corporacion Luana") ; [Django Software Foundation](https://www.djangoproject.com/ "Django Software Foundation") 
-- 📧 Contactame [cesargonzalez390@gmail.com](mailto:cesargonzalez390@gmail.com "cesargonzalez390@gmail.com")
-- Preguntame sobre **Python, Django, Django Rest Framework**
+- 💻 I work in [Corporacion Luana](https://corporacionluana.pe/ "Corporacion Luana")
+- 📧 Contact me [cesargonzalez390@gmail.com](mailto:cesargonzalez390@gmail.com "cesargonzalez390@gmail.com")
 
+### Skills
+- Django with Django Rest Framework
+- NextJS
+- NestJS
+- Laravel
 
 <p align="center">
 
