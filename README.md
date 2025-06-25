@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cesar Gonzalez</h1>
-<h3 align="center">A passionate backend and frontend developer from Venezuela</h3>
+<h3 align="center">Systems Engineering student and web developer. I enjoy creating modern and responsive web applications. Always learning and building cool things!</h3>
 
 - 🔭 I’m currently working on **Corporacion Luana**
 
