@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [django](https://github.com/django/django)
 
-- 💬 Ask me about **Python, Django, TypeScript, NextJS**
+- 💬 Ask me about **Python, Django, FastAPI, TypeScript, NextJS, NestJS**
 
 - 📫 How to reach me **cesargonzalez390@gmail.com**
 
