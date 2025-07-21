@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Django, FastAPI, TypeScript, NextJS, NestJS**
 
-- 📫 How to reach me **cesargonzalez390@gmail.com**
+- 📫 How to reach me **vaglitodev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
