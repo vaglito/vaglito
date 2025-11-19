@@ -1,7 +1,7 @@
 # Hi 👋 I'm Cesar Gonzalez - A passionate Full Stack Developer 💻
 #### I specialize in Django Rest Framework, FastAPI, NestJS, and Next.js, focusing on creating clean architectures and robust APIs. I’m deeply interested in Hexagonal Architecture, CQRS, and cloud-based development. My goal is to keep improving every day and become an influential developer in the programming world.
 
-- 🔭 I’m currently working on [**Corporacion Luana**](https://github.com/LuanaCorporacion)
+- 🔭 I’m currently working on [**Corporacion Luana**](https://github.com/LuanaCorporacion) | [**Arya**](https://controllerbi.com/) - [**ControllerBI**](https://controllerbi.com/
 
 - 📫 How to reach me **vaglito.dev@gmail.com**
 
